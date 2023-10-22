@@ -4,6 +4,8 @@
 - 🌱 Querendo sempre adquirir novos conhecimentos.
 - 💻 Focado em programação WEB
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mateuspossari14" alt="mateuspossari" /> </p>
+
 ##
 
 <div>
