@@ -1,6 +1,6 @@
 ### Olá, eu sou o Mateus Possari! 👋😀
 
-- 🔭 Estudante no 2° do Ensino Médio, junto com o curso técnico em Desenvolvimento de Sistemas. 
+- 🔭 Estudante no 3° do Ensino Médio, junto com o curso técnico em Desenvolvimento de Sistemas. 
 - 🌱 Querendo sempre adquirir novos conhecimentos.
 - 💻 Focado em programação WEB
 
