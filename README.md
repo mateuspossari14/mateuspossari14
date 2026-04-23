@@ -1,6 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+- 👨🏻‍💻 I am currently pursuing a bachelor’s degree in Software Engineering at ITE (Instituição Toledo de Ensino) in Bauru, São Paulo.
 - 🔭 High school with professional qualification as a systems development technician at Etec Marinês Teodoro de Freitas Almeida, located in Novo Horizonte, São Paulo. 
 - 🌱 I am always seeking new knowledge. 
 - 💻 Focused on web developing, but I would like to learn a new areas of technology!
